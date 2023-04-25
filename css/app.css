@@ -131,6 +131,9 @@ footer {
     text-align: center;
 }
 
+.destination:hover2{
+    transform: rotate(0deg);
+}
 
 
 /*** Reponsive Styles ***/
